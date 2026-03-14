@@ -24,3 +24,5 @@
 
 | 2026-03-14 | Added SOC skill alignment | docs/soc-skill-alignment.md | Connected repo work to IT, infrastructure, and SOC preparation |
 
+| 2026-03-14 | Added network architecture diagram | diagrams/network-architecture.md | Mermaid diagram showing lab topology |
+
