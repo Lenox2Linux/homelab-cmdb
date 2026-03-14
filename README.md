@@ -2,6 +2,12 @@
 
 This repository contains configuration management and IT asset documentation for a personal cybersecurity home lab.
 
+## Project Type
+
+Cybersecurity / IT Infrastructure Documentation Lab
+
+This repository simulates the type of configuration management database (CMDB) and infrastructure documentation used by enterprise IT and security teams.
+
 ## Purpose
 The goal of this repository is to document infrastructure in an enterprise-style format, including:
 
