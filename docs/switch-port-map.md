@@ -1,46 +1,46 @@
-# \# GS308E Managed Switch Port Mapping
+\# GS308E Managed Switch Port Mapping
 
-# 
 
-# This document tracks device connections to the \*\*Netgear GS308E managed switch\*\* used in the lab network.
 
-# 
+This document tracks device connections to the \*\*Netgear GS308E managed switch\*\* used in the lab network.
 
-# \## Switch Information
 
-# 
 
-# | Device | Model | Role |
+\## Switch Information
 
-# |---|---|---|
 
-# | LAB\_SWITCH | Netgear GS308E | Layer 2 managed switch |
 
-# 
+| Device | Model | Role |
 
-# \## Port Assignments
+|---|---|---|
 
-# 
+| LAB\_SWITCH | Netgear GS308E | Layer 2 managed switch |
 
-# | Switch Port | Connected Device | Purpose |
 
-# |---|---|---|
 
-# | 1 | LAB\_ROUTER | AX50 router uplink |
+\## Port Assignments
 
-# | 2 | LAB\_SERVER | Proxmox host |
 
-# | 3 | LAB\_SERVICE | Mac Mini service host |
 
-# | 4 | LAB\_ADMIN | ThinkPad T14 management workstation |
+| Switch Port | Connected Device | Purpose |
 
-# | 5 | LAB\_ATTACK | MacBook Pro Kali attack machine |
+|---|---|---|
 
-# 
+| 1 | LAB\_ROUTER | AX50 router uplink |
 
-# \## Notes
+| 2 | LAB\_SERVER | Proxmox host |
 
-# 
+| 3 | LAB\_SERVICE | Mac Mini service host |
 
-# This port mapping demonstrates the type of network documentation used in enterprise environments to track physical network connections and assist with troubleshooting and asset management.
+| 4 | LAB\_ADMIN | ThinkPad T14 management workstation |
+
+| 5 | LAB\_ATTACK | MacBook Pro Kali attack machine |
+
+
+
+\## Notes
+
+
+
+This port mapping demonstrates the type of network documentation used in enterprise environments to track physical network connections and assist with troubleshooting and asset management.
 
