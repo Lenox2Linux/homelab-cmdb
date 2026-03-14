@@ -4,7 +4,7 @@
 
 | Date | Change | System / Area | Notes |
 
-|---|---|---|---|
+| --- | --- | --- | --- |
 
 | 2026-03-14 | Created repository structure | Repository | Initial CMDB documentation repo created |
 
