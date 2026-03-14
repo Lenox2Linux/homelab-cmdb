@@ -1,4 +1,4 @@
-\# GS308E Managed Switch Port Mapping
+#### \# GS308E Managed Switch Port Mapping
 
 
 
@@ -6,7 +6,7 @@ This document tracks device connections to the \*\*Netgear GS308E managed switch
 
 
 
-\## Switch Information
+###### \## Switch Information
 
 
 
@@ -18,7 +18,7 @@ This document tracks device connections to the \*\*Netgear GS308E managed switch
 
 
 
-\## Port Assignments
+###### \## Port Assignments
 
 
 
