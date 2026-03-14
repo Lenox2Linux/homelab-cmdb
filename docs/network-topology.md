@@ -7,28 +7,15 @@ Internet
    │
 ISP Modem
    │
-AX3200 Router (Personal Network)
-192.168.1.0/24
+HOME_ROUTER
    │
+LAB_ROUTER
    │
-AX50 Router (Lab Network)
-192.168.50.0/24
+LAB_SWITCH
    │
-   │
-GS308E Managed Switch
-   │
-   ├── ThinkPad T14 (Admin / Management)
-   │
-   ├── Mac Mini (Ubuntu Server)
-   │      ├── Docker
-   │      ├── Wazuh
-   │      ├── Portainer
-   │      ├── Uptime Kuma
-   │      └── Nextcloud
-   │
-   ├── Lenovo M920t (Proxmox Host)
-   │      ├── Ubuntu VM
-   │      ├── Windows VM (Victim)
-   │      └── Future VMs
-   │
-   └── MacBook Pro 2012 (Kali Attacker)
+   ├── LAB_ADMIN
+   ├── LAB_SERVICE
+   ├── LAB_SERVER
+   │      ├── LAB_VM
+   │      └── LAB_WINDOWS_VM
+   └── LAB_ATTACK
